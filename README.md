@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arshnawaz0404
+- 👋 Hi, I’m Mohammed Arsh Nawaz
 - 👀 I’m interested in Operations and Data Enthusiast 
 - 🌱 I’m currently learning Data Analysis and Data Science 
 
