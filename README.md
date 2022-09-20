@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arshnawaz0404
-- 👀 I’m interested in Operations and Data Enthusiast 
-- 🌱 I’m currently learning Data Analysis and Data Science 
+- 👀 I’m interested in Operations and Data Science 
+- 🌱 I’m currently planning to learn Data Analysis and Data Science 
 
 <!---
 Arshnawaz0404/Arshnawaz0404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
